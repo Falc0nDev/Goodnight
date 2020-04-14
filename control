@@ -1,0 +1,9 @@
+Package: com.falcon.goodnight
+Name: Goodnight
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Double tap the home and lock screen to lock the device.
+Maintainer: Falcon
+Author: Falcon
+Section: Tweaks
